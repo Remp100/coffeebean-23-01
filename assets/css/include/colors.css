@@ -1,0 +1,25 @@
+/*Color*/
+
+.color-dark {
+  color: black;
+}
+
+.color-light {
+  color: rgb(255, 255, 255);
+}
+
+.color-red {
+  color: #bb2649;
+}
+
+.color-gray {
+  color: gray;
+}
+
+.color-light-gray {
+  color: rgb(119, 28, 28);
+}
+
+.color-accent {
+  color: #274c77;
+}

@@ -1,0 +1,69 @@
+/*Background*/
+
+.background-grey {
+  background: grey;
+}
+
+.background-red {
+  background: red;
+}
+
+.background-light {
+  background-color: #ffff;
+}
+
+.background-light-grey {
+  background: rgb(247, 247, 247);
+}
+
+.background-black {
+  background: rgb(36, 36, 35);
+}
+
+.background-front-page {
+  background-image: url(./../../image/front-page.jpg);
+  width: 1864px;
+  height: 874px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-index-2 {
+  background-image: url(./../../image/index-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-index-3 {
+  background-image: url(./../../image/index-3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-index-4 {
+  background-image: url(./../../image/index-4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-index-5 {
+  background-image: url(./../../image/index-5.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-services {
+  background-image: url(./../../image/services.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-about {
+  background-image: url(./../../image/aboutus.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-warning {
+  background-color: rgb(187, 38, 73);
+}

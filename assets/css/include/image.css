@@ -1,0 +1,28 @@
+.partners-grid {
+  width: 450px;
+  height: 450px;
+}
+
+.index-4-img {
+  width: 1500px;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.index-5-img {
+  width: 1800px;
+  height: 500px;
+  border-radius: 15px;
+}
+
+.services-img {
+  width: 2600px;
+  height: 400px;
+  border-radius: 15px;
+}
+
+.about-img {
+  width: 2600px;
+  height: 450px;
+  border-radius: 15px;
+}

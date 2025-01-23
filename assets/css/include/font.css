@@ -1,0 +1,52 @@
+.font-special {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  letter-spacing: -1px;
+}
+
+.font-size-8 {
+  font-size: 8px;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-18 {
+  font-size: 18px;
+}
+
+.font-size-32 {
+  font-size: 32px;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.font-body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+.font-weight-600 {
+  font-weight: 600;
+}
+
+.font-weight-300 {
+  font-weight: 300;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+}
